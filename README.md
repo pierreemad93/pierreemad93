@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hey 👋 , I'm Pierre Emad 
+I'm full stack Developer and i'm passionte about technologies and love learn new things  
+## About ME
+  👨‍🏫 I am currently working as full stack instructor at AMIT learning
+  🧑‍🎓 I’m currently learning in Django and node 
+  
+  
 
 <!--
 **pierreemad93/pierreemad93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
